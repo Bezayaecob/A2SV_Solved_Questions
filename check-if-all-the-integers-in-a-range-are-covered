@@ -1,0 +1,9 @@
+for x in range(left, right + 1):
+            isCovered = False
+            for start, end in ranges:
+                if start <= x <= end :
+                    isCovered = True 
+                    break
+            if not isCovered:
+                return False
+        return True 
