@@ -1,0 +1,10 @@
+        char_count = Counter(chars)  
+        total = 0
+        
+        for word in words:
+            word_count = Counter(word)  
+   
+            if all(word_count[c] <= char_count.get(c, 0) for c in word_count):
+                total += len(word)
+                
+        return total
