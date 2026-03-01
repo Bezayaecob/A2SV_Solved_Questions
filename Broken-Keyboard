@@ -1,0 +1,12 @@
+from collections import Counter 
+t= int(input())
+for _ in range(t):
+    s= input()
+    freq= Counter(s)
+    res=[]
+    for i in freq:
+        if freq[i] % 2==1:
+            res.append(i)
+    print("".join(sorted(res)))
+
+    
