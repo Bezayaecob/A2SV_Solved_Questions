@@ -1,0 +1,27 @@
+t=int(input())
+for _ in range(t):
+    n= int(input())
+    r=list(map(int,input().split()))
+
+    m=int(input())
+    b=list(map(int,input().split()))
+
+    curr_sum=0
+    maxx=0
+    for num in r:
+        curr_sum+=num
+        maxx=max(maxx,curr_sum)
+    curr_sum1=0 
+    maxx1=0   
+    for num in b:
+        curr_sum1+=num
+        maxx1= max(maxx1 , curr_sum1)
+        
+    print(maxx+maxx1)
+
+
+
+
+
+
+
