@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 
-**Problem:** [Search-Insert-Position](https://leetcode.com/problems/search-insert-position/)
+**Problem:** [Search-Insert-Position](https://leetcode.com/problems/search-insert-position/submissions/1967992217/)
 
 ---
 
