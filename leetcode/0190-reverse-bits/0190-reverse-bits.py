@@ -1,8 +1,10 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
-        bits= bin(n)[2:]
-        bits=bits.zfill(32)
-        reversed_bits=bits[::-1]
-        return int(reversed_bits,2)
+        ans=0
+        for i in range(32):
+            ans<<=1
+            ans |= (n & 1)
+            n>>=1
+        return ans 
 
         
