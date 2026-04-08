@@ -11,6 +11,3 @@ class Solution:
             closest= min(left,right)
             res = max(res,closest)
         return res
-        
-
-        
