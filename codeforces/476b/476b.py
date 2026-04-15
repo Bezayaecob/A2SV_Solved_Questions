@@ -1,5 +1,6 @@
 s1 = input()
 s2= input()
+val = 0
 for i in range(len(s1)):
     if s1[i] == '+':
         val += 1
@@ -10,7 +11,6 @@ res = []
 def recurse(curr, n):
     if n == len(s1):
         res.append(curr)
-        curr = 0
         return
     if s2[n] == '+':
         recurse(curr+1, n+1)
