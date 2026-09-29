@@ -1,0 +1,14 @@
+class Solution:
+    def lastRemaining(self, n: int) -> int:
+        head=1
+        step=1
+        count=n
+        left=True
+        while count > 1:
+            if left or count%2==1:
+                head= head + step
+            step= step*2 
+            count= count//2
+            left =not left
+        return head
+        
