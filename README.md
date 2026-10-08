@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0880-decoded-string-at-index](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0880-decoded-string-at-index) |
 | [3340-check-balanced-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3340-check-balanced-string) |
+## Stack
+|  |
+| ------- |
+| [0880-decoded-string-at-index](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0880-decoded-string-at-index) |
 <!---LeetCode Topics End-->
