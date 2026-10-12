@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
