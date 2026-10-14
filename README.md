@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -33,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
