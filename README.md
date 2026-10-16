@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
