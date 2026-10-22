@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
