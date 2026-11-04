@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [1652-defuse-the-bomb](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [1652-defuse-the-bomb](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/1652-defuse-the-bomb) |
 ## Counting
 |  |
 | ------- |
