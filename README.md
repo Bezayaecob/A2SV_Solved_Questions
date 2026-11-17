@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0917-reverse-only-letters) |
 | [2810-faulty-keyboard](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2810-faulty-keyboard) |
 | [3340-check-balanced-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3340-check-balanced-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0541-reverse-string-ii](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0917-reverse-only-letters) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2810-faulty-keyboard](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2810-faulty-keyboard) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
