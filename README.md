@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0541-reverse-string-ii) |
 | [0880-decoded-string-at-index](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0880-decoded-string-at-index) |
+| [2810-faulty-keyboard](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2810-faulty-keyboard) |
 | [3340-check-balanced-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
