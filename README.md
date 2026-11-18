@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0611-valid-triangle-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1652-defuse-the-bomb](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/1652-defuse-the-bomb) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0541-reverse-string-ii](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0611-valid-triangle-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0917-reverse-only-letters) |
 | [1332-remove-palindromic-subsequences](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/1332-remove-palindromic-subsequences) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0611-valid-triangle-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2810-faulty-keyboard](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
