@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0205-isomorphic-strings) |
 | [0541-reverse-string-ii](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0880-decoded-string-at-index](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0880-decoded-string-at-index) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
