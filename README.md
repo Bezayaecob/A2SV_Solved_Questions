@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0541-reverse-string-ii](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0880-decoded-string-at-index](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0880-decoded-string-at-index) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
