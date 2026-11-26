@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0880-decoded-string-at-index](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0880-decoded-string-at-index) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0412-fizz-buzz) |
 | [2810-faulty-keyboard](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
