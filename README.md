@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1652-defuse-the-bomb](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/1652-defuse-the-bomb) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0611-valid-triangle-number) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
