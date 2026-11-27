@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2129-capitalize-the-title) |
 | [2810-faulty-keyboard](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/2810-faulty-keyboard) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3340-check-balanced-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bezayaecob/A2SV_Solved_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
